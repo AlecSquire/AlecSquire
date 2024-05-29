@@ -20,10 +20,11 @@ As part of my learning process, I am an advocate for the reflective process. I b
 <img align="left" alt="Next.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <br />
 
-<div style="display: flex; justify-content: flex-end;">
-### 🧰 Reflective Blog Posts
-</div>
-<div style="display: flex; justify-content: space-between; gap: 60px; padding: 10px 0;">
+
+
+
+<div style="display: flex; justify-content: space-between; gap: 20px; padding: 10px 0;">
+  ### 🧰 Reflective Blog Posts
   <div style="padding: 40px; text-align: center;">
     <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="display: block; text-decoration: none; color: inherit;">
       <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 200px; height: 200px;" />
