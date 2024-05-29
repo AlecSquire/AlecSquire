@@ -17,6 +17,9 @@ As part of my learning process, I am an advocate for the reflective process. I b
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="React Router" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" />
+<svg xmlns="http://www.w3.org/2000/svg" width="50px" height="1em" viewBox="0 0 24 24"><path fill="currentColor" d="M19.088 2.477L24 7.606L12.521 20.485l-.925 1.038L0 7.559l5.108-5.082zm-17.434 5.2l6.934-4.003H5.601L1.619 7.636zm12.117-4.003L3.333 9.7l2.149 2.588l10.809-6.241l-.2-.346l2.851-1.646l-.365-.381zm7.52 2.834L8.257 14.034h5.101v-.4h3.667l5.346-5.998zm-7.129 10.338H9.268l2.36 2.843z"/></svg>
+<img align="left" alt="Next.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <br />
 
 ### 🧰 Reflective Blog Posts
