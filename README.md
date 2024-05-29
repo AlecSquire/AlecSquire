@@ -24,7 +24,7 @@ As part of my learning process, I am an advocate for the reflective process. I b
 ### 🧰 Reflective Blog Posts
 
 
-<div style="display: grid; grid-template-columns: repeat(3, 30px); gap: 10px; padding: 10px 0;">
+<div style="display: grid; grid-template-columns: repeat(3, 60px); gap: 10px; padding: 10px 0;">
   <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="width: 30px; height: 30px;">
     <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 30px; height: 30px;" />
   </a>
