@@ -24,7 +24,7 @@ As part of my learning process, I am an advocate for the reflective process. I b
 
 ### 🧰 Reflective Blog Posts
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-direction: row; gap: 10px;">
   <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="flex: 1 0 10%; padding: 10px;">
     <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 100%;" />
   </a>
