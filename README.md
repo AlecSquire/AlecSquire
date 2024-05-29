@@ -21,20 +21,22 @@ As part of my learning process, I am an advocate for the reflective process. I b
 <img align="left" alt="Next.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <br />
 
+
 ### 🧰 Reflective Blog Posts
 
 
 <div style="display: grid; grid-template-columns: repeat(3, 300px); gap: 10px; padding: 10px 0;">
-  <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="width: 200px; height: 100px;">
-    <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 100px; height: 100px;" />
+  <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="width: 300px; height: 300px;">
+    <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 300px; height: 300px;" />
   </a>
-  <a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed" style="width: 100px; height: 100px;">
-    <img src="https://i.ibb.co/9YjwQPz/react-state-management-thumbnail.jpg" alt="React State Management" style="width: 100px; height: 100px;" />
+  <a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed" style="width: 300px; height: 300px;">
+    <img src="https://i.ibb.co/9YjwQPz/react-state-management-thumbnail.jpg" alt="React State Management" style="width: 300px; height: 300px;" />
   </a>
-  <a href="https://medium.com/@alecsquire/the-command-line-interface-cli-not-just-for-neo-entering-the-matrix-42cd5bc3ef16" style="width: 100px; height: 100px;">
-    <img src="https://i.ibb.co/jbW65Wy/cli-thumbnail.jpg" alt="CLI" style="width: 100px; height: 100px;" />
+  <a href="https://medium.com/@alecsquire/the-command-line-interface-cli-not-just-for-neo-entering-the-matrix-42cd5bc3ef16" style="width: 300px; height: 300px;">
+    <img src="https://i.ibb.co/jbW65Wy/cli-thumbnail.jpg" alt="CLI" style="width: 300px; height: 300px;" />
   </a>
 </div>
+
 
 
 ### 📊 Stats
