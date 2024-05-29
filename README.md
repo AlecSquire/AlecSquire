@@ -24,16 +24,17 @@ As part of my learning process, I am an advocate for the reflective process. I b
 ### 🧰 Reflective Blog Posts
 
 
-<div style="display: flex; justify-content: space-between; padding: 10px 0;">
-  <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="flex: 1; max-width: 30%; padding: 5px;">
-    <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 100px; height: 1000px;" />
+<div style="display: grid; grid-template-columns: repeat(3, 30px); gap: 10px; padding: 10px 0;">
+  <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="width: 30px; height: 30px;">
+    <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 30px; height: 30px;" />
   </a>
-  <a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed" style="flex: 1; max-width: 30%; padding: 5px;">
-    <img src="https://i.ibb.co/9YjwQPz/react-state-management-thumbnail.jpg" alt="React State Management" style="width:100px; height: 1000px;" />
+  <a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed" style="width: 30px; height: 30px;">
+    <img src="https://i.ibb.co/9YjwQPz/react-state-management-thumbnail.jpg" alt="React State Management" style="width: 30px; height: 30px;" />
   </a>
-  <a href="https://medium.com/@alecsquire/the-command-line-interface-cli-not-just-for-neo-entering-the-matrix-42cd5bc3ef16" style="flex: 1; max-width: 30%; padding: 5px;">
-    <img src="https://i.ibb.co/jbW65Wy/cli-thumbnail.jpg" alt="CLI" style="width: 100px; height: 1000px;" />
+  <a href="https://medium.com/@alecsquire/the-command-line-interface-cli-not-just-for-neo-entering-the-matrix-42cd5bc3ef16" style="width: 30px; height: 30px;">
+    <img src="https://i.ibb.co/jbW65Wy/cli-thumbnail.jpg" alt="CLI" style="width: 30px; height: 30px;" />
   </a>
 </div>
+
 
 ### 📊 Stats
