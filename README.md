@@ -24,10 +24,8 @@ As part of my learning process, I am an advocate for the reflective process. I b
 <table style="width:100%">
   <tr>
     <td style="text-align: center;">
- <a href="https://postimg.cc/qt7szbrC" target="_blank"><img src="https://i.postimg.cc/qt7szbrC/Screenshot-2024-05-29-at-08-38-53.png" alt="Screenshot-2024-05-29-at-08-38-53"/></a><br/><br/> <a href="https://postimg.cc/DWYqsrfp" target="_blank"><img src="https://i.postimg.cc/DWYqsrfp/Screenshot-2024-05-29-at-08-39-08.png" alt="Screenshot-2024-05-29-at-08-39-08"/></a><br/><br/>
-<a href="https://postimg.cc/YGCpWPqY" target="_blank"><img src="https://i.postimg.cc/YGCpWPqY/Screenshot-2024-05-29-at-10-02-07.png" alt="Screenshot-2024-05-29-at-10-02-07"/></a><br/><br/>
-
-" alt="Compound Components" style="width: 200px; height: 200px;" />
+      <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="text-decoration: none; color: inherit;">
+        <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 200px; height: 200px;" />
         <div>Compound Components</div>
       </a>
     </td>
