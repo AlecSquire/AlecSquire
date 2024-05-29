@@ -25,17 +25,18 @@ As part of my learning process, I am an advocate for the reflective process. I b
 ### 🧰 Reflective Blog Posts
 
 
-<div style="display: grid; grid-template-columns: repeat(3, 100px); gap: 10px; padding: 10px 0;">
-  <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="width: 100px; height: 100px;">
-    <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 100px; height: 100px;" />
+<div style="display: grid; grid-template-columns: repeat(3, 200px); gap: 60px; padding: 10px 0;">
+  <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="width: 200px; height: 200px;">
+    <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 200px; height: 200px;" />
   </a>
-  <a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed" style="width: 100px; height: 100px;">
-    <img src="https://i.ibb.co/9YjwQPz/react-state-management-thumbnail.jpg" alt="React State Management" style="width: 100px; height: 100px;" />
+  <a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed" style="width: 200px; height: 200px;">
+    <img src="https://i.ibb.co/9YjwQPz/react-state-management-thumbnail.jpg" alt="React State Management" style="width: 200px; height: 200px;" />
   </a>
-  <a href="https://medium.com/@alecsquire/the-command-line-interface-cli-not-just-for-neo-entering-the-matrix-42cd5bc3ef16" style="width: 100px; height: 100px;">
-    <img src="https://i.ibb.co/jbW65Wy/cli-thumbnail.jpg" alt="CLI" style="width: 100px; height: 100px;" />
+  <a href="https://medium.com/@alecsquire/the-command-line-interface-cli-not-just-for-neo-entering-the-matrix-42cd5bc3ef16" style="width: 200px; height: 200px;">
+    <img src="https://i.ibb.co/jbW65Wy/cli-thumbnail.jpg" alt="CLI" style="width: 200px; height: 200px;" />
   </a>
 </div>
+
 
 
 
