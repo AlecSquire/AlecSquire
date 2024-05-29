@@ -20,7 +20,7 @@ As part of my learning process, I am an advocate for the reflective process. I b
 <img align="left" alt="Next.js" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <br />
 
-<div style="display: flex; justify-content: flex-start;">
+<div style="display: flex; justify-content: flex-end;">
 ### 🧰 Reflective Blog Posts
 </div>
 <div style="display: flex; justify-content: space-between; gap: 60px; padding: 10px 0;">
