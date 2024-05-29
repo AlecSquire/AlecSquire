@@ -24,13 +24,14 @@ As part of my learning process, I am an advocate for the reflective process. I b
 
 ### 🧰 Reflective Blog Posts
 
-<a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea">
-  <img align="left" src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" width="100px" />
-</a>
-<a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed">
-  <img align="left" src="https://i.ibb.co/9YjwQPz/react-state-management-thumbnail.jpg" width="100px" />
-</a>
-<a href="https://medium.com/@alecsquire/the-command-line-interface-cli-not-just-for-neo-entering-the-matrix-42cd5bc3ef16">
-  <img align="left" src="https://i.ibb.co/jbW65Wy/cli-thumbnail.jpg" width="100px" />
-</a>
-<br />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="flex: 1 0 20%; padding: 10px;">
+    <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 100%;" />
+  </a>
+  <a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed" style="flex: 1 0 20%; padding: 10px;">
+    <img src="https://i.ibb.co/9YjwQPz/react-state-management-thumbnail.jpg" alt="React State Management" style="width: 100%;" />
+  </a>
+  <a href="https://medium.com/@alecsquire/the-command-line-interface-cli-not-just-for-neo-entering-the-matrix-42cd5bc3ef16" style="flex: 1 0 20%; padding: 10px;">
+    <img src="https://i.ibb.co/jbW65Wy/cli-thumbnail.jpg" alt="CLI" style="width: 100%;" />
+  </a>
+</div>
