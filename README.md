@@ -21,24 +21,26 @@ As part of my learning process, I am an advocate for the reflective process. I b
 <br clear="left" />
 
 ### 🧰 Reflective Blog Posts
-<div style="display: flex; justify-content: space-between; flex-direction: row; gap: 20px; padding: 10px 0;">
-  <div style="text-align: center;">
-    <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="display: block; text-decoration: none; color: inherit;">
-      <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 200px; height: 200px;" />
-      <div>Compound Components</div>
-    </a>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed" style="display: block; text-decoration: none; color: inherit;">
-      <img src="https://i.ibb.co/9YjwQPz/react-state-management-thumbnail.jpg" alt="React State Management" style="width: 200px; height: 200px;" />
-      <div>React State Management</div>
-    </a>
-  </div>
-  <div style="text-align: center;">
-    <a href="https://medium.com/@alecsquire/the-command-line-interface-cli-not-just-for-neo-entering-the-matrix-42cd5bc3ef16" style="display: block; text-decoration: none; color: inherit;">
-      <img src="https://i.ibb.co/jbW65Wy/cli-thumbnail.jpg" alt="CLI" style="width: 200px; height: 200px;" />
-      <div>Command Line Interface</div>
-    </a>
-  </div>
-</div>
+<table style="width:100%">
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea">
+        <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 200px; height: 200px;" />
+        <div>Compound Components</div>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed">
+        <img src="https://i.ibb.co/9YjwQPz/react-state-management-thumbnail.jpg" alt="React State Management" style="width: 200px; height: 200px;" />
+        <div>React State Management</div>
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://medium.com/@alecsquire/the-command-line-interface-cli-not-just-for-neo-entering-the-matrix-42cd5bc3ef16">
+        <img src="https://i.ibb.co/jbW65Wy/cli-thumbnail.jpg" alt="CLI" style="width: 200px; height: 200px;" />
+        <div>Command Line Interface</div>
+      </a>
+    </td>
+  </tr>
+</table>
 
