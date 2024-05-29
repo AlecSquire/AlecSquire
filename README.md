@@ -25,7 +25,8 @@ As part of my learning process, I am an advocate for the reflective process. I b
   <tr>
     <td style="text-align: center;">
       <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="text-decoration: none; color: inherit;">
-        <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 200px; height: 200px;" />
+        <img src="[url=https://postimg.cc/qt7szbrC][img]https://i.postimg.cc/qt7szbrC/Screenshot-2024-05-29-at-08-38-53.png[/img][/url]
+" alt="Compound Components" style="width: 200px; height: 200px;" />
         <div>Compound Components</div>
       </a>
     </td>
