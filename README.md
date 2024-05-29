@@ -25,7 +25,7 @@ As part of my learning process, I am an advocate for the reflective process. I b
 
 
 <div style="display: grid; grid-template-columns: repeat(3, 100px); gap: 10px; padding: 10px 0;">
-  <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="width: 100px; height: 100px;">
+  <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="width: 200px; height: 100px;">
     <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 100px; height: 100px;" />
   </a>
   <a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed" style="width: 100px; height: 100px;">
