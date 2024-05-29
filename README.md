@@ -14,7 +14,6 @@ As part of my learning process, I am an advocate for the reflective process. I b
 <img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="React Router" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" />
@@ -23,7 +22,8 @@ As part of my learning process, I am an advocate for the reflective process. I b
 
 ### 🧰 Reflective Blog Posts
 
-<div style="display: flex; justify-content: space-between; gap: 20px; padding: 10px 0;">
+
+<div style="display: flex; justify-content: space-between; flex-direction: row; gap: 20px; padding: 10px 0;">
   <div style="text-align: center;">
     <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="display: block; text-decoration: none; color: inherit;">
       <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 200px; height: 200px;" />
@@ -44,4 +44,3 @@ As part of my learning process, I am an advocate for the reflective process. I b
   </div>
 </div>
 
-### 📊 Stats
