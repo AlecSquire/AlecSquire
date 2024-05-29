@@ -18,10 +18,13 @@
 <img align="left" alt="Next.js" width="50px" style="padding-right:2000px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <br />
 
+<div style="text-wrap:none; text-align:left;">
 
 I love building projects that solve my real-life issues. As a strong believer in collaborating with the broader community when I feel out of my depth, I find this approach not only broadens my horizons but also strengthens my projects. With two degrees in Education and Training, I bring a wealth of knowledge to my work, which is proving invaluable given the current demand on developers to be lifelong learners.
 
 As part of my learning process, I am an advocate for the reflective process. I believe that sharing what I learn through my blog not only reinforces my own understanding but also benefits others in the community. This ongoing reflection and sharing help me grow both personally and professionally.
+
+</div>
 
 ### 🧰 Reflective Blog Posts
 
