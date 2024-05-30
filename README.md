@@ -44,45 +44,4 @@ As part of my learning process, I am an advocate for the reflective process. I b
   </div>
 </div>
 
-<style>
-  .blog-posts-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
-  }
-
-  .blog-post {
-    flex: 1 1 calc(33.333% - 40px);
-    max-width: calc(33.333% - 40px);
-    text-align: center;
-  }
-
-  .blog-post img {
-    width: 100%;
-    height: auto;
-    max-width: 200px;
-    max-height: 200px;
-    object-fit: cover;
-  }
-
-  .blog-post a {
-    text-decoration: none;
-    color: inherit;
-  }
-
-  @media (max-width: 768px) {
-    .blog-post {
-      flex: 1 1 calc(50% - 40px);
-      max-width: calc(50% - 40px);
-    }
-  }
-
-  @media (max-width: 480px) {
-    .blog-post {
-      flex: 1 1 100%;
-      max-width: 100%;
-    }
-  }
-</style>
 
