@@ -23,25 +23,66 @@ As part of my learning process, I am an advocate for the reflective process. I b
 
 
 ### 🧰 Reflective Blog Posts
-<table style="width:100%">
-  <tr>
-    <td style="text-align: center;">
-      <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea" style="text-decoration: none; color: inherit;">
-        <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" style="width: 200px; height: 200px;" />
-        <div>Compound Components</div>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed" style="text-decoration: none; color: inherit;">
-        <img src="https://i.ibb.co/9YjwQPz/react-state-management-thumbnail.jpg" alt="React State Management" style="width: 200px; height: 200px;" />
-        <div>React State Management</div>
-      </a>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://medium.com/@alecsquire/the-command-line-interface-cli-not-just-for-neo-entering-the-matrix-42cd5bc3ef16" style="text-decoration: none; color: inherit;">
-        <img src="https://i.ibb.co/jbW65Wy/cli-thumbnail.jpg" alt="CLI" style="width: 200px; height: 200px;" />
-        <div>Command Line Interface</div>
-      </a>
-    </td>
-  </tr>
-</table>
+<div class="blog-posts-container">
+  <div class="blog-post">
+    <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea">
+      <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" />
+      <div>Compound Components</div>
+    </a>
+  </div>
+  <div class="blog-post">
+    <a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed">
+      <img src="https://i.ibb.co/9YjwQPz/react-state-management-thumbnail.jpg" alt="React State Management" />
+      <div>React State Management</div>
+    </a>
+  </div>
+  <div class="blog-post">
+    <a href="https://medium.com/@alecsquire/the-command-line-interface-cli-not-just-for-neo-entering-the-matrix-42cd5bc3ef16">
+      <img src="https://i.ibb.co/jbW65Wy/cli-thumbnail.jpg" alt="CLI" />
+      <div>Command Line Interface</div>
+    </a>
+  </div>
+</div>
+
+<style>
+  .blog-posts-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+
+  .blog-post {
+    flex: 1 1 calc(33.333% - 40px);
+    max-width: calc(33.333% - 40px);
+    text-align: center;
+  }
+
+  .blog-post img {
+    width: 100%;
+    height: auto;
+    max-width: 200px;
+    max-height: 200px;
+    object-fit: cover;
+  }
+
+  .blog-post a {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  @media (max-width: 768px) {
+    .blog-post {
+      flex: 1 1 calc(50% - 40px);
+      max-width: calc(50% - 40px);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .blog-post {
+      flex: 1 1 100%;
+      max-width: 100%;
+    }
+  }
+</style>
+
