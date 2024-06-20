@@ -6,6 +6,9 @@ I love building projects that solve my real-life issues. As a strong believer in
 
 As part of my learning process, I am an advocate for the reflective process. I believe that sharing what I learn through my blog not only reinforces my own understanding but also benefits others in the community. This ongoing reflection and sharing help me grow both personally and professionally.
 
+![First Screenshot](https://i.imgur.com/V8XgpMB.png)
+![Second Screenshot](https://i.imgur.com/pJobQYP.png)
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" title="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
