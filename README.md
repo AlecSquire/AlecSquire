@@ -10,7 +10,9 @@ As part of my learning process, I am an advocate for the reflective process. I b
 ![Second Screenshot](https://i.imgur.com/pJobQYP.png)
 
 ### 🧰 Languages and Tools
-
+![Vue.js](https://www.stickpng.com/img/icons-logos-emojis/tech-companies/vuejs-round-logo)
+![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
+![Laravel](https://seeklogo.com/images/L/Laravel-logo-6BEBB7F0C9-seeklogo.com.png)
 <img align="left" alt="TypeScript" title="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Git" title="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
