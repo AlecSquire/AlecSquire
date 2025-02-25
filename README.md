@@ -1,10 +1,14 @@
 # 🏄‍♂️ Alec Squire
 
-**Front End Developer**
+**Web Developer**
 
-I love building projects that solve my real-life issues. As a strong believer in collaborating with the broader community when I feel out of my depth, I find this approach not only broadens my horizons but also strengthens my projects. With two degrees in Education and Training, I bring a wealth of knowledge to my work, which is proving invaluable given the current demand on developers to be lifelong learners.
+I love building projects in my spare time. 
+I work as a Full Stack Junior Dev at a start up in Devon, UK. 
+Started with a front end focus, now i have a back end bias.
 
-As part of my learning process, I am an advocate for the reflective process. I believe that sharing what I learn through my blog not only reinforces my own understanding but also benefits others in the community. This ongoing reflection and sharing help me grow both personally and professionally.
+PhP, Js <3
+
+Check out my site [alecsquire.co.uk](https://alecsquire.co.uk)
 
 
 ![Second Screenshot](https://i.imgur.com/pJobQYP.png)
