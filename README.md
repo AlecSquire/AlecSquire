@@ -6,7 +6,7 @@ I love building projects that solve my real-life issues. As a strong believer in
 
 As part of my learning process, I am an advocate for the reflective process. I believe that sharing what I learn through my blog not only reinforces my own understanding but also benefits others in the community. This ongoing reflection and sharing help me grow both personally and professionally.
 
-![First Screenshot](https://i.imgur.com/V8XgpMB.png)
+
 ![Second Screenshot](https://i.imgur.com/pJobQYP.png)
 ![Third Screenshot](https://imgur.com/bsQNpcq.png)
 
