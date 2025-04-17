@@ -1,7 +1,8 @@
 # 🏄‍♂️ Alec Squire
 
-**Web Developer**
-I work as a Full Stack Junior Dev at a start up in Devon, UK. 
+**Full Stack Web Developer**
+
+Currently at a start up in Devon, UK working with next and laravel. 
 
 I love building projects in my spare time. 
 
