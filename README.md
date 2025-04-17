@@ -31,26 +31,5 @@ Check out my site [alecsquire.co.uk](https://alecsquire.co.uk)
 <br clear="left" />
 
 
-### 🧰 Reflective Blog Posts
-<div class="blog-posts-container">
-  <div class="blog-post">
-    <a href="https://medium.com/@alecsquire/compound-components-in-react-a-simplified-approach-8ace72520fea">
-      <img src="https://i.ibb.co/WPqQmVW/compound-components-thumbnail.jpg" alt="Compound Components" />
-      <div>Compound Components</div>
-    </a>
-  </div>
-  <div class="blog-post">
-    <a href="https://medium.com/@alecsquire/react-state-management-compound-components-vs-redux-and-context-api-066c16cd05ed">
-      <img src="https://i.ibb.co/9YjwQPz/react-state-management-thumbnail.jpg" alt="React State Management" />
-      <div>React State Management</div>
-    </a>
-  </div>
-  <div class="blog-post">
-    <a href="https://medium.com/@alecsquire/the-command-line-interface-cli-not-just-for-neo-entering-the-matrix-42cd5bc3ef16">
-      <img src="https://i.ibb.co/jbW65Wy/cli-thumbnail.jpg" alt="CLI" />
-      <div>Command Line Interface</div>
-    </a>
-  </div>
-</div>
 
 
