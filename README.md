@@ -11,7 +11,6 @@ PhP, Js <3
 Check out my site [alecsquire.co.uk](https://alecsquire.co.uk)
 
 
-![Second Screenshot](https://i.imgur.com/pJobQYP.png)
 ![Third Screenshot](https://imgur.com/bsQNpcq.png)
 
 ### 🧰 Languages and Tools
