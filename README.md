@@ -1,18 +1,13 @@
 # 🏄‍♂️ Alec Squire
 
-**Full Stack Web Developer**
+**Full Stack Web Developer** PhP, Js <3
 
 Currently at a start up in Devon, UK working with next and laravel. 
 
-I love building projects in my spare time. 
-
-Started with a front end focus, now i have a back end bias.
-
-PhP, Js <3
-
 Check out my site [alecsquire.co.uk](https://alecsquire.co.uk)
 
-Self hosted Cron based notifcation system to never forget the stuff you lend out  - Lender  [lender](https://lender.alecsquire.co.uk)
+#1 Side project
+Self hosted Cron based notifcation system... Never forget the stuff you lend out  - Lender  [lender](https://lender.alecsquire.co.uk)
 
 ### 🧰 Languages and Tools
 <img align="left" alt="PHP" title="PHP" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" />
