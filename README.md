@@ -2,7 +2,7 @@
 
 **Full Stack Web Developer** PhP, Js <3
 
-Currently at a start up in Devon, UK working with next and laravel. 
+Current employment [OurRainwater](https://ourrainwater.com) 
 
 Check out my site [alecsquire.co.uk](https://alecsquire.co.uk)
 
