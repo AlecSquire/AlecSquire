@@ -1,7 +1,5 @@
 # 🏄‍♂️ Alec Squire
 
-**Full Stack Web Developer** PhP, Js <3
-
 Check out my site [alecsquire.co.uk](https://alecsquire.co.uk)
 
 #1 Side project
