@@ -4,9 +4,6 @@ Shopify developer working at [Highcohesion](https://highcohesion.com) and iPass 
 
 Check out my site [alecsquire.co.uk](https://alecsquire.co.uk)
 
-### #1 Side project
-Self hosted Cron based notification system... Never forget the stuff you lend out [lender](https://lender.alecsquire.co.uk) (currently down, moving to self hosted)
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Shopify" title="Shopify" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/shopify/shopify-original.svg" />
