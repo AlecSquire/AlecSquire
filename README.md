@@ -6,7 +6,6 @@ Check out my site [alecsquire.co.uk](https://alecsquire.co.uk)
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Shopify" title="Shopify" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/shopify/shopify-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
